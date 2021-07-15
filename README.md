@@ -1,6 +1,6 @@
 # 66 Days of Data by Dr. Joshua Starmer
 
-> 🌍 Below repository contains the concepts and explainations provided by Dr. Joshua. I tried to collect all the information at one place for quick reference. 🌍
+> 🌍 The below repository contains the concepts and explanations provided by Dr. Joshua. I tried to collect all the information in one place for quick reference. 🌍
 
 ---
 # Getting Started
