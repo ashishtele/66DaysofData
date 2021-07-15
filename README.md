@@ -13,5 +13,8 @@
 
 ## Day1 of 66DaysOfData
 
-Diving into CatBoost. CatBoost converts categorical predictors into continuous predictors instead of using one-hot encoding
+Diving into CatBoost. CatBoost converts categorical predictors into continuous predictors instead of using one-hot encoding.
 
+<p align="center">
+  <img width="650" height="400" src="/images/day1.jpg">
+</p>
