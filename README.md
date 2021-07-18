@@ -149,3 +149,8 @@ A summary of the Main Ideas in SHAP!!!
 ## [Day17 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_the-illustrated-word2vec-activity-6822223750692438016-SbL1)
 
 The Illustrated Word2vec [Link](https://jalammar.github.io/illustrated-word2vec/)
+
+
+## [Day18 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_66daysofdata-bam-activity-6822631490459889664-EqJL)
+
+A bunch stuff about RNNs, including a chapter from an Neural Networks and Deep Learning by Aurélien Géron. [Link](https://learning.oreilly.com/library/view/neural-networks-and/9781492037354/ch04.html)
