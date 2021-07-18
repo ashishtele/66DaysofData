@@ -146,3 +146,6 @@ A summary of the Main Ideas in SHAP!!!
   <img width="650" height="400" src="/images/day14_6.jpg">
 </p>
 
+## [Day17 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_the-illustrated-word2vec-activity-6822223750692438016-SbL1)
+
+The Illustrated Word2vec [Link](https://jalammar.github.io/illustrated-word2vec/)
