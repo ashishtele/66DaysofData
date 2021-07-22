@@ -181,3 +181,9 @@ Recurrent Neural Networks (RNNs)
 <p align="center">
   <img width="650" height="400" src="/images/day20_7.jpg">
 </p>
+
+## [Day22 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_understanding-lstm-networks-activity-6824073252973907968-SwGS)
+
+Long Short-Term Memory (LSTM) networks. Chris Olah @ch402 has a great article on the LSTMs.
+
+[Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
