@@ -154,3 +154,30 @@ The Illustrated Word2vec [Link](https://jalammar.github.io/illustrated-word2vec/
 ## [Day18 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_66daysofdata-bam-activity-6822631490459889664-EqJL)
 
 A bunch stuff about RNNs, including a chapter from an Neural Networks and Deep Learning by Aurélien Géron. [Link](https://learning.oreilly.com/library/view/neural-networks-and/9781492037354/ch04.html)
+
+## [Day19-20 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_66daysofdata-bam-activity-6822979701917700097-KQJZ)
+
+Recurrent Neural Networks (RNNs)
+
+
+<p align="center">
+  <img width="650" height="400" src="/images/day20_1.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day20_2.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day20_3.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day20_4.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day20_5.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day20_6.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day20_7.jpg">
+</p>
