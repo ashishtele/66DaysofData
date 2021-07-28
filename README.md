@@ -195,3 +195,7 @@ A Bidirectional Recurrent Neural Network
 <p align="center">
   <img width="650" height="400" src="/images/day24.jpg">
 </p>
+
+## [Day25 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_dbscan-activity-6825111993897295872-zQ1m)
+
+DBSCAN (a clustering algorithm) [Link](https://en.wikipedia.org/wiki/DBSCAN)
