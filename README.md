@@ -219,3 +219,7 @@ DBSCAN (a clustering algorithm)
 <p align="center">
   <img width="650" height="400" src="/images/day27_5.jpg">
 </p>
+
+## [Day28 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_what-is-feature-engineering-activity-6826242423937622016-oXnW)
+
+Feature Engineering [Link](https://www.kaggle.com/ryanholbrook/what-is-feature-engineering)
