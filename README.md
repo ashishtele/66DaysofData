@@ -223,3 +223,7 @@ DBSCAN (a clustering algorithm)
 ## [Day28 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_what-is-feature-engineering-activity-6826242423937622016-oXnW)
 
 Feature Engineering [Link](https://www.kaggle.com/ryanholbrook/what-is-feature-engineering)
+
+## [Day33 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_information-theory-mathematics-activity-6828058344503226368-sgAq)
+
+Entropy [Link](https://www.britannica.com/science/information-theory/Discrete-noiseless-communication-and-the-concept-of-entropy)
