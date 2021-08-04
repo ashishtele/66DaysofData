@@ -228,6 +228,6 @@ Feature Engineering [Link](https://www.kaggle.com/ryanholbrook/what-is-feature-e
 
 Entropy [Link](https://www.britannica.com/science/information-theory/Discrete-noiseless-communication-and-the-concept-of-entropy)
 
-## [Day34 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_shannon1948dvi-activity-6828418600987103232--1tv)
+## [Day34-35 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_shannon1948dvi-activity-6828418600987103232--1tv)
 
-Shannon's original manuscript describing Entropy [Link](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+Shannon's original manuscript describing Entropy [Link](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) [Link2](https://plus.maths.org/content/information-surprise)
