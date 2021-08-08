@@ -231,3 +231,32 @@ Entropy [Link](https://www.britannica.com/science/information-theory/Discrete-no
 ## [Day34-35 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_shannon1948dvi-activity-6828418600987103232--1tv)
 
 Shannon's original manuscript describing Entropy [Link](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) [Link2](https://plus.maths.org/content/information-surprise)
+
+## [Day38 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_66daysofdata-bam-activity-6829821324211339264-5rjy)
+
+Mutual Information
+
+<p align="center">
+  <img width="650" height="400" src="/images/day38_1.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_2.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_3.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_4.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_5.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_6.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_7.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day38_8.jpg">
+</p>
