@@ -260,3 +260,7 @@ Mutual Information
 <p align="center">
   <img width="650" height="400" src="/images/day38_8.jpg">
 </p>
+
+## [Day42 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_introduction-to-linear-mixed-models-activity-6831313857181495297-I4wo)
+
+Mixed Models [Link](https://ourcodingclub.github.io/tutorials/mixed-models/)
