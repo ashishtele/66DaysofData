@@ -264,3 +264,7 @@ Mutual Information
 ## [Day42 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_introduction-to-linear-mixed-models-activity-6831313857181495297-I4wo)
 
 Mixed Models [Link](https://ourcodingclub.github.io/tutorials/mixed-models/)
+
+## [Day44 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_a-visual-introduction-to-hierarchical-models-activity-6831998445335707648-LJVw)
+
+Mixed models visualization [Link](http://mfviz.com/hierarchical-models/)
