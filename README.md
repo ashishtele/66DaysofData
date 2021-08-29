@@ -268,3 +268,47 @@ Mixed Models [Link](https://ourcodingclub.github.io/tutorials/mixed-models/)
 ## [Day44 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_a-visual-introduction-to-hierarchical-models-activity-6831998445335707648-LJVw)
 
 Mixed models visualization [Link](http://mfviz.com/hierarchical-models/)
+
+## [Day58 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_joshua-starmer-on-twitter-activity-6837115406214324224-8gcD)
+
+A summary of t-SNE, LargeVis and UMAP
+
+<p align="center">
+  <img width="650" height="400" src="/images/day58_1.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_2.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_3.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_4.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_5.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_6.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_7.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_8.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_9.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_10.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_11.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_12.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day58_13.jpg">
+</p>
