@@ -274,41 +274,41 @@ Mixed models visualization [Link](http://mfviz.com/hierarchical-models/)
 A summary of t-SNE, LargeVis and UMAP
 
 <p align="center">
-  <img width="650" height="400" src="/images/day58_1.jpg">
+  <img width="650" height="400" src="/images/day55_1.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_2.jpg">
+  <img width="650" height="400" src="/images/day55_2.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_3.jpg">
+  <img width="650" height="400" src="/images/day55_3.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_4.jpg">
+  <img width="650" height="400" src="/images/day55_4.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_5.jpg">
+  <img width="650" height="400" src="/images/day55_5.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_6.jpg">
+  <img width="650" height="400" src="/images/day55_6.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_7.jpg">
+  <img width="650" height="400" src="/images/day55_7.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_8.jpg">
+  <img width="650" height="400" src="/images/day55_8.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_9.jpg">
+  <img width="650" height="400" src="/images/day55_9.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_10.jpg">
+  <img width="650" height="400" src="/images/day55_10.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_11.jpg">
+  <img width="650" height="400" src="/images/day55_11.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_12.jpg">
+  <img width="650" height="400" src="/images/day55_12.jpg">
 </p>
 <p align="center">
-  <img width="650" height="400" src="/images/day58_13.jpg">
+  <img width="650" height="400" src="/images/day55_13.jpg">
 </p>
