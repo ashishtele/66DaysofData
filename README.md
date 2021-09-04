@@ -312,3 +312,8 @@ A summary of t-SNE, LargeVis and UMAP
 <p align="center">
   <img width="650" height="400" src="/images/day55_13.jpg">
 </p>
+
+## [Day62 of 66DaysOfData](https://www.linkedin.com/posts/joshua-starmer-phd-95a554130_66daysofdata-bam-activity-6838519825204027392-TFcb)
+
+SMOTE
+
