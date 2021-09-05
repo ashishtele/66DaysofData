@@ -317,3 +317,27 @@ A summary of t-SNE, LargeVis and UMAP
 
 SMOTE
 
+<p align="center">
+  <img width="650" height="400" src="/images/day62_1.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_2.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_3.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_4.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_5.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_6.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_7.jpg">
+</p>
+<p align="center">
+  <img width="650" height="400" src="/images/day62_8.jpg">
+</p>
